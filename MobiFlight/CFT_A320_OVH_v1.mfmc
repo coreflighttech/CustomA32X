@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>MobiFlight Mega</ModuleType>
+  <ModuleName>CFT_A320_OVH_v1</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <InputShiftRegister Name="InputShifter" LatchPin="32" ClockPin="33" DataPin="34" NumModules="3" />
+  <InputShiftRegister Name="InputShifter 1" LatchPin="37" ClockPin="38" DataPin="39" NumModules="3" />
+  <InputShiftRegister Name="InputShifter 2" LatchPin="43" ClockPin="44" DataPin="45" NumModules="2" />
+  <ShiftRegister Name="ShiftRegister" LatchPin="12" ClockPin="11" DataPin="10" NumModules="3" />
+  <ShiftRegister Name="ShiftRegister 1" LatchPin="8" ClockPin="7" DataPin="9" NumModules="4" />
+  <Output Name="Output" Pin="21" />
+  <Output Name="Output 1" Pin="22" />
+  <Output Name="Output 2" Pin="23" />
+  <Button Name="Button" Pin="40" />
+  <Button Name="Button 1" Pin="41" />
+  <Button Name="Button 2" Pin="42" />
+  <LedModule Name="LedModule" ModelType="0" DinPin="6" ClsPin="4" ClkPin="5" Brightness="3" NumModules="1" />
+</Config>
