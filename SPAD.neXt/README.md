@@ -23,4 +23,4 @@ How to install firmware -> https://github.com/coreflighttech/Uploader
 
 # Previous firmware
 
-Warning, do not use <i>sketch_A32X_OVH_COMPACT_SPAD_1L2P_R02_115200.ino.hex</i> and <i>sketch_A32X_OVH_COMPACT_SPAD_1L2P_R04_115200.ino.hex</i> as they were for V1 version of the COMPACT A32X OVERHEAD.
+Warning, do not use <i>old_sketch_A32X_OVH_COMPACT_SPAD_1L2P_BETA02_115200.ino.hex</i> and <i>old_sketch_A32X_OVH_COMPACT_SPAD_1L2P_BETA04_115200.ino.hex</i> as they were for V1 version of the COMPACT A32X OVERHEAD.
