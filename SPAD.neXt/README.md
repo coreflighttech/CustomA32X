@@ -8,7 +8,7 @@ CORE FLIGHT TECHONOLOGIES COMPACT A32X OVERHEAD V2 PANEL firmware for SPAD.neXt 
 
 -> https://github.com/coreflighttech/Uploader  
 - Select B737 MCP in Xloader "Device" pull down list as both devices are driven by the same Arduino type.)
-- Be sure to plug the external power supply of the overhead.\
+- Be sure to plug the external power supply of the overhead.
 - Use powered USB hub or free mothernoard USB port.
 
 # How to use
