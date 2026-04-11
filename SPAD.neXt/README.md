@@ -2,7 +2,16 @@ CORE FLIGHT TECHONOLOGIES COMPACT A32X OVERHEAD V2 PANEL firmware for SPAD.neXt 
 
 # r01 Initial release (2026/04/04)
 
-<i>CFT_A32X_OVH_COMPACT_SPAD_1L2P_R01_115200.ino.hex</i>
+[CFT_A32X_OVH_COMPACT_SPAD_1L2P_R01_115200.ino.hex](https://github.com/coreflighttech/CustomA32X/blob/main/SPAD.neXt/CFT_A32X_OVH_COMPACT_SPAD_1L2P_R01_115200.ino.hex)
+
+# How to install the firmware
+
+-> https://github.com/coreflighttech/Uploader  
+- Select B737 MCP in Xloader "Device" pull down list as both devices are driven by the same Arduino type.)
+- Be sure to plug the external power supply of the overhead.\
+- Use powered USB hub or free mothernoard USB port.
+
+# How to use
 
 Serial COM port has to be set to 115200 bauds in SPAD serial device settings (default bitrate)
 
@@ -19,8 +28,7 @@ To manage brightness from SPAD, use:
 SPAD test snippet for FlyByWire A32NX is #16541
 SPAD test snippet for Fenix A320 is #16548
 
-How to install firmware -> https://github.com/coreflighttech/Uploader
 
-# Previous firmware
+# Firmware history
 
 Warning, do not use <i>old_sketch_A32X_OVH_COMPACT_SPAD_1L2P_BETA02_115200.ino.hex</i> and <i>old_sketch_A32X_OVH_COMPACT_SPAD_1L2P_BETA04_115200.ino.hex</i> as they were for V1 version of the COMPACT A32X OVERHEAD.
