@@ -25,7 +25,7 @@ Internal devices features
 To manage brightness from SPAD, use:
  - DISPLAY_BRI : Displays brightness from 0 to 255 (DEVICE:1L2P/CFTA32XOVHCOMPACTV2/DISPLAY_BRI)
 
-SPAD test snippet for FlyByWire A32NX is #16541
+SPAD test snippet for FlyByWire A32NX is #16541\
 SPAD test snippet for Fenix A320 is #16548
 
 
