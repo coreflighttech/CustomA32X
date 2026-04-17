@@ -6,8 +6,8 @@ CORE FLIGHT TECHONOLOGIES COMPACT A32X OVERHEAD V2 PANEL firmware for SPAD.neXt 
 
 # How to install the firmware
 
--> https://github.com/coreflighttech/Uploader  
-- Select "A32X Compact OVH" in XLoader "Device" pull down list (or MCP/FCU as it is also an ATmega2560).
+- Download XLoader here -> https://github.com/coreflighttech/Uploader  
+- Select "A32X Compact OVH" in XLoader device pull down list (or MCP/FCU as it is also an ATmega2560).
 - Be sure to plug the external power supply of the overhead.
 - Use powered USB hub or free mothernoard USB port.
 
